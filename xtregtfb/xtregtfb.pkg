@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'xtregtfb': Provides bias-correction through fixed-b approximation for the two-way clustering robust standard error Use xtregtfb With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f xtregtfb.ado
+f xtregtfb.sthlp
