@@ -3,6 +3,8 @@ Provides bias-correction through fixed-b approximation for the two-way clusterin
 
 Bias-correction approaches to the CHS variance estimator through fixed-b approximation based on Chen and Vogelsang (2023) Use xtregtfb With STATA 18
 
+https://www.youtube.com/watch?v=aUofTQ3Hajo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
